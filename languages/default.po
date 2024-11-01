@@ -1,0 +1,279 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce - Custom User Meta Extra Search\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-22 16:09+0100\n"
+"PO-Revision-Date: 2013-08-22 16:09+0100\n"
+"Last-Translator: remi\n"
+"Language-Team: Remi Corson\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../woocommerce-users-custom-meta-search.php:36
+msgid "User fields search"
+msgstr ""
+
+#: ../woocommerce-users-custom-meta-search.php:37
+msgid ""
+"Choose user fields to include wether or not in the main WordPress users "
+"search."
+msgstr ""
+
+#: ../woocommerce-users-custom-meta-search.php:41
+msgid "Billing Firstname"
+msgstr ""
+
+#: ../woocommerce-users-custom-meta-search.php:42
+msgid "Billing Lastname"
+msgstr ""
+
+#: ../woocommerce-users-custom-meta-search.php:43
+msgid "Billing Company"
+msgstr ""
+
+#: ../woocommerce-users-custom-meta-search.php:44
+msgid "Billing Address 1"
+msgstr ""
+
+#: ../woocommerce-users-custom-meta-search.php:45
+msgid "Billing Address 2"
+msgstr ""
+
+#: ../woocommerce-users-custom-meta-search.php:46
+msgid "Billing City"
+msgstr ""
+
+#: ../woocommerce-users-custom-meta-search.php:47
+msgid "Billing Postcode"
+msgstr ""
+
+#: ../woocommerce-users-custom-meta-search.php:48
+msgid "Billing State"
+msgstr ""
+
+#: ../woocommerce-users-custom-meta-search.php:49
+msgid "Billing Country"
+msgstr ""
+
+#: ../woocommerce-users-custom-meta-search.php:50
+msgid "Billing Phone"
+msgstr ""
+
+#: ../woocommerce-users-custom-meta-search.php:51
+msgid "Billing Email"
+msgstr ""
+
+#: ../woocommerce-users-custom-meta-search.php:52
+msgid "Shipping Firstname"
+msgstr ""
+
+#: ../woocommerce-users-custom-meta-search.php:53
+msgid "Shipping Lastname"
+msgstr ""
+
+#: ../woocommerce-users-custom-meta-search.php:54
+msgid "Shipping Company"
+msgstr ""
+
+#: ../woocommerce-users-custom-meta-search.php:55
+msgid "Shipping Address 1"
+msgstr ""
+
+#: ../woocommerce-users-custom-meta-search.php:56
+msgid "Shipping Address 2"
+msgstr ""
+
+#: ../woocommerce-users-custom-meta-search.php:57
+msgid "Shipping City"
+msgstr ""
+
+#: ../woocommerce-users-custom-meta-search.php:58
+msgid "Shipping Postcode"
+msgstr ""
+
+#: ../woocommerce-users-custom-meta-search.php:59
+msgid "Shipping State"
+msgstr ""
+
+#: ../woocommerce-users-custom-meta-search.php:60
+msgid "Shipping Country"
+msgstr ""
+
+#: ../woocommerce-users-custom-meta-search.php:65
+msgid "To choose multiple fields hold \"Ctrl\" key and click on fields label."
+msgstr ""
+
+#, fuzzy
+#~ msgid "Easy Wordpress Donation Settings"
+#~ msgstr "Easy Admin Notification Settings"
+
+#, fuzzy
+#~ msgid "Export to CSV"
+#~ msgstr "Save Options"
+
+#~ msgid "Options saved"
+#~ msgstr "Options saved"
+
+#~ msgid "Save Options"
+#~ msgstr "Save Options"
+
+#, fuzzy
+#~ msgid "Export Donations to CSV"
+#~ msgstr "Save Options"
+
+#, fuzzy
+#~ msgid "Settings"
+#~ msgstr "Save Options"
+
+#, fuzzy
+#~ msgid "Enable Donations Target"
+#~ msgstr "Enable notification ?"
+
+#, fuzzy
+#~ msgid "Please indicate how you want to display the total donations amount"
+#~ msgstr "Choose where you want to display the notification."
+
+#, fuzzy
+#~ msgid "Confirmation Message"
+#~ msgstr "Error message ?"
+
+#, fuzzy
+#~ msgid "Check if you want to send an email once a donation is completed."
+#~ msgstr "Choose where you want to display the notification."
+
+#, fuzzy
+#~ msgid "Enable admin notification email?"
+#~ msgstr "Admin Notification"
+
+#, fuzzy
+#~ msgid "Admin notification email"
+#~ msgstr "Admin Notification"
+
+#, fuzzy
+#~ msgid "Please enter your donation amount."
+#~ msgstr "Choose where you want to display the notification."
+
+#, fuzzy
+#~ msgid "Optional Message"
+#~ msgstr "Options saved"
+
+#, fuzzy
+#~ msgid "Optional message"
+#~ msgstr "Options saved"
+
+#, fuzzy
+#~ msgid "Donation to"
+#~ msgstr "Save Options"
+
+#, fuzzy
+#~ msgid "page"
+#~ msgstr "All pages"
+
+#, fuzzy
+#~ msgid "Custom Message"
+#~ msgstr "Error message ?"
+
+#, fuzzy
+#~ msgid "Choose if you want to display items thumbnail."
+#~ msgstr "Choose where you want to display the notification."
+
+#, fuzzy
+#~ msgid "Choose if you want to display items price."
+#~ msgstr "Choose where you want to display the notification."
+
+#, fuzzy
+#~ msgid "Choose if you want to display items rate."
+#~ msgstr "Choose where you want to display the notification."
+
+#, fuzzy
+#~ msgid "Choose if you want to display items sales."
+#~ msgstr "Choose where you want to display the notification."
+
+#, fuzzy
+#~ msgid "Choose if you want to display items author."
+#~ msgstr "Choose where you want to display the notification."
+
+#, fuzzy
+#~ msgid "Choose if you want to display item name."
+#~ msgstr "Choose where you want to display the notification."
+
+#, fuzzy
+#~ msgid "Dashboard Metabox"
+#~ msgstr "Dashboard Only"
+
+#, fuzzy
+#~ msgid "Add Pointers"
+#~ msgstr "Easy Admin Notification Settings"
+
+#, fuzzy
+#~ msgid "Easy Admin Pointers"
+#~ msgstr "Easy Admin Notification Settings"
+
+#, fuzzy
+#~ msgid "Easy Admin Pointers Import / Export"
+#~ msgstr "Easy Admin Notification Settings"
+
+#, fuzzy
+#~ msgid "Import Options"
+#~ msgstr "Save Options"
+
+#, fuzzy
+#~ msgid "Activate Pointers"
+#~ msgstr "Easy Admin Notification Settings"
+
+#, fuzzy
+#~ msgid ""
+#~ "Choose if you want to display the close button. Will only work if NOT use "
+#~ "as tour."
+#~ msgstr "Choose where you want to display the notification."
+
+#, fuzzy
+#~ msgid "Notification management"
+#~ msgstr "Notification page(s)"
+
+#~ msgid "<a href=\"%1$s\">Hide</a>"
+#~ msgstr "<a href=\"%1$s\">Hide</a>"
+
+#~ msgid "Check this box to enable the notification message."
+#~ msgstr "Check this box to enable the notification message."
+
+#~ msgid "Enter the message to display"
+#~ msgstr "Enter the message to display"
+
+#~ msgid ""
+#~ "Enter the text you want to display in the notification. HTML code "
+#~ "accepted."
+#~ msgstr ""
+#~ "Enter the text you want to display in the notification. HTML code "
+#~ "accepted."
+
+#~ msgid ""
+#~ "Check this box to display an error message. If uncheck, the message will "
+#~ "be display as an information."
+#~ msgstr ""
+#~ "Check this box to display an error message. If uncheck, the message will "
+#~ "be display as an information."
+
+#~ msgid "Display \"hide button\" ?"
+#~ msgstr "Display \"hide button\" ?"
+
+#~ msgid ""
+#~ "Check this box to display a \"hide button\" inside the notification box."
+#~ "<br />Each user will have the choice to hide or not the notification"
+#~ msgstr ""
+#~ "Check this box to display a \"hide button\" inside the notification box."
+#~ "<br />Each user will have the choice to hide or not the notification"
+
+#~ msgid "Notification page(s)"
+#~ msgstr "Notification page(s)"
+
+#~ msgid "Only display to Admins ?"
+#~ msgstr "Only display to Admins ?"
+
+#~ msgid "Check this box to display notice only to Admins"
+#~ msgstr "Check this box to display notice only to Admins"
